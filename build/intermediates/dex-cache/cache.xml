@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="B:\Git\CalorieClock\app\libs\android-query-full.0.26.8.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="5ab405d9f4eaf5ddd615967cd35650657b758d40">
+        <dex dex="B:\Git\CalorieClock\app\build\intermediates\transforms\dex\debug\folders\1000\2\android-query-full.0.26.8_7659968ca1781eb43e77df22e249693ff8904935\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="B:\Git\CalorieClock\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="fba2d33e4589586fc87d12b8ac0cdcc32f612f8a">
+        <dex dex="B:\Git\CalorieClock\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_628258ab0dc7de0d6f2ef12b7dede8fb495d79c0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="B:\Git\CalorieClock\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="7208b9529f4fdb34dbd00cacc552548f20e25df0">
+        <dex dex="B:\Git\CalorieClock\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_5ebf632d592600f8da8a9fde79ad7725a815172c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Steviesama\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-v4\19.1.0\support-v4-19.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="85f201b380937e61a9dce6ca90ccf6872abbfb67">
+        <dex dex="B:\Git\CalorieClock\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-v4-19.1.0_bbb7cd898cc71d0c01d7206740f48eac0fa4ef96\classes.dex" />
+    </item>
+
+</items>

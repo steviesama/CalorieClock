@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "B:\\Git\\CalorieClock\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\red_pressed.png",
+        "source": "B:\\Git\\CalorieClock\\app\\src\\main\\res\\drawable\\red_pressed.png"
+    },
+    {
+        "merged": "B:\\Git\\CalorieClock\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\red.png",
+        "source": "B:\\Git\\CalorieClock\\app\\src\\main\\res\\drawable\\red.png"
+    },
+    {
+        "merged": "B:\\Git\\CalorieClock\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\green.png",
+        "source": "B:\\Git\\CalorieClock\\app\\src\\main\\res\\drawable\\green.png"
+    },
+    {
+        "merged": "B:\\Git\\CalorieClock\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\red_button.xml",
+        "source": "B:\\Git\\CalorieClock\\app\\src\\main\\res\\drawable\\red_button.xml"
+    },
+    {
+        "merged": "B:\\Git\\CalorieClock\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\green_button.xml",
+        "source": "B:\\Git\\CalorieClock\\app\\src\\main\\res\\drawable\\green_button.xml"
+    },
+    {
+        "merged": "B:\\Git\\CalorieClock\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\red_focused.png",
+        "source": "B:\\Git\\CalorieClock\\app\\src\\main\\res\\drawable\\red_focused.png"
+    },
+    {
+        "merged": "B:\\Git\\CalorieClock\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\green_pressed.png",
+        "source": "B:\\Git\\CalorieClock\\app\\src\\main\\res\\drawable\\green_pressed.png"
+    },
+    {
+        "merged": "B:\\Git\\CalorieClock\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\green_focused.png",
+        "source": "B:\\Git\\CalorieClock\\app\\src\\main\\res\\drawable\\green_focused.png"
+    }
+]
