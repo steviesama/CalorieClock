@@ -1,4 +1,4 @@
-#Tue Nov 01 17:32:11 CDT 2016
+#Thu Nov 10 09:10:35 CST 2016
 base.0=B\:\\Git\\CalorieClock\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_628258ab0dc7de0d6f2ef12b7dede8fb495d79c0
 renamed.1=classes2.dex
 renamed.0=classes.dex

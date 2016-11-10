@@ -5,100 +5,100 @@
     android:orientation="vertical"
     android:padding="0dp"
     tools:context=".MainActivity" >
-        
-    <ScrollView 
-        	android:id="@+id/profileEditorScrollView"
+
+	<ScrollView
+            android:id="@+id/profileEditorScrollView"
             android:layout_width="match_parent"
             android:layout_height="0dp"
             android:padding="10dp"
             android:layout_weight="1"
             android:orientation="vertical">
-		    
-		    <LinearLayout 
-		        android:layout_width="match_parent"
-		        android:layout_height="wrap_content"
-		        android:orientation="vertical">
-            
-		    <LinearLayout 
-		            android:layout_width="match_parent"
-		            android:layout_height="wrap_content"
-		            android:orientation="horizontal">        
-		            
-			    <TextView
-			        android:id="@+id/calorieEntryTextView"
-			        android:layout_width="wrap_content"
-			        android:layout_height="wrap_content"
-			        android:layout_gravity="center_vertical"
-			        android:padding="5dp"
-			        android:text="@string/calories"
-			        android:textAppearance="?android:attr/textAppearanceMedium" />
-			
-			    <EditText
-			        android:id="@+id/calorieEntryEditText"
-			        android:layout_width="match_parent"
-			        android:layout_height="wrap_content"
-			        android:ems="10"
-			        android:gravity="center"
-			        android:imeOptions="actionNext"
-			        android:inputType="numberSigned"
-			        android:padding="5dp">
-			        <requestFocus/>
-			    </EditText>
-			    
-		    </LinearLayout>
-			    	
-		    <LinearLayout 
-		            android:layout_width="match_parent"
-		            android:layout_height="wrap_content"
-		            android:orientation="vertical">
-			    
-			    <TextView
-			        android:id="@+id/textView2"
-			        android:layout_width="wrap_content"
-			        android:layout_height="wrap_content"
-			        android:padding="5dp"
-			        android:paddingLeft="10dp"
-			        android:text="@string/entry_time"
-			        android:textAppearance="?android:attr/textAppearanceMedium" />
-	
-		        <TimePicker
-		            android:id="@+id/foodEntryTimePicker"
-		            android:calendarViewShown="false"
-		            android:layout_width="wrap_content"
-		            android:layout_height="wrap_content" />
-		        
-		   	</LinearLayout>
-			    	
-		    <LinearLayout 
-		            android:layout_width="match_parent"
-		            android:layout_height="wrap_content"
-		            android:paddingTop="10dp"
-		            android:orientation="horizontal">
-			    
-			    <TextView
-			        android:id="@+id/foodEntryNoteTextView"
-			        android:layout_width="wrap_content"
-			        android:layout_height="wrap_content"
-			        android:layout_gravity="center_vertical"
-			        android:padding="5dp"
-			        android:text="@string/note_string"
-			        android:textAppearance="?android:attr/textAppearanceMedium" />
-			
-			    <EditText
-			        android:id="@+id/foodEntryNoteEditText"
-			        android:inputType="textMultiLine"
-			        android:layout_width="match_parent"
-			        android:layout_height="96dp"
-			        android:ems="10"
-			        android:hint="@string/note_hint"
-			        android:padding="5dp" />
-			    
-			</LinearLayout>
-			
-		</LinearLayout>
-		
-	</ScrollView>
-		
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical">
+
+            <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="horizontal">
+
+                <TextView
+                    android:id="@+id/calorieEntryTextView"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center_vertical"
+                    android:padding="5dp"
+                    android:text="@string/calories"
+                    android:textAppearance="?android:attr/textAppearanceMedium" />
+
+                <EditText
+                    android:id="@+id/calorieEntryEditText"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:ems="10"
+                    android:gravity="center"
+                    android:imeOptions="actionNext"
+                    android:inputType="numberSigned"
+                    android:padding="5dp">
+                    <requestFocus/>
+                </EditText>
+
+            </LinearLayout>
+
+            <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="vertical">
+
+                <TextView
+                    android:id="@+id/textView2"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:padding="5dp"
+                    android:paddingLeft="10dp"
+                    android:text="@string/entry_time"
+                    android:textAppearance="?android:attr/textAppearanceMedium" />
+
+                <TimePicker
+                    android:id="@+id/foodEntryTimePicker"
+                    android:calendarViewShown="true"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content" />
+
+               </LinearLayout>
+
+            <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:paddingTop="10dp"
+                    android:orientation="horizontal">
+
+                <TextView
+                    android:id="@+id/foodEntryNoteTextView"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center_vertical"
+                    android:padding="5dp"
+                    android:text="@string/note_string"
+                    android:textAppearance="?android:attr/textAppearanceMedium" />
+
+                <EditText
+                    android:id="@+id/foodEntryNoteEditText"
+                    android:inputType="textMultiLine"
+                    android:layout_width="match_parent"
+                    android:layout_height="96dp"
+                    android:ems="10"
+                    android:hint="@string/note_hint"
+                    android:padding="5dp" />
+
+            </LinearLayout>
+
+        </LinearLayout>
+
+    </ScrollView>
+
 	<TableRow android:id="@+id/tableRow1" android:layout_width="match_parent" android:layout_height="45dp">
     
 	    <Button

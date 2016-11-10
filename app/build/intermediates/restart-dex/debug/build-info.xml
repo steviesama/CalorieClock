@@ -5,22 +5,22 @@
     density="hdpi"
     format="8"
     plugin-version="2.2.2"
-    timestamp="1596386672659764"
+    timestamp="535195634920830"
     token="-2706046763933918280"
     verifier="FULL_BUILD_REQUESTED" >
 
     <task
         name="javac"
-        duration="340" />
+        duration="2986" />
     <task
         name="instant-run-dex"
         duration="0" />
     <task
         name="instant-run-transform"
-        duration="331" />
+        duration="629" />
     <task
         name="verifier"
-        duration="53" />
+        duration="4" />
 
     <artifact
         location="B:\Git\CalorieClock\app\build\outputs\apk\app-debug.apk"
