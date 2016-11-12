@@ -26,16 +26,16 @@ public final class R {
         public static final int red_pressed=0x7f020008;
     }
     public static final class id {
-        public static final int action_settings=0x7f080033;
+        public static final int action_settings=0x7f080034;
         public static final int activityLevelSpinner=0x7f080007;
         public static final int activityLevelTextView=0x7f080006;
         public static final int bankEditText=0x7f080019;
         public static final int bankTextView=0x7f080018;
         public static final int basedOnTextView=0x7f080004;
-        public static final int birthdayDatePicker=0x7f080028;
+        public static final int birthdayDatePicker=0x7f080029;
         public static final int bmrEditText=0x7f080017;
         public static final int bmrTextView=0x7f080016;
-        public static final int button1=0x7f080031;
+        public static final int button1=0x7f080032;
         public static final int calorieEntryEditText=0x7f08001c;
         public static final int calorieEntryTextView=0x7f08001b;
         public static final int caloriesAvailableEditText=0x7f080001;
@@ -49,19 +49,20 @@ public final class R {
         public static final int currentLbsTextView=0x7f08000a;
         public static final int currentWeightEditText=0x7f080009;
         public static final int currentWeightTextView=0x7f080008;
-        public static final int defaultActivityLevelTextView=0x7f080029;
+        public static final int defaultActivityLevelTextView=0x7f08002a;
         public static final int eatButton=0x7f080002;
+        public static final int entryTimeTextView=0x7f08001d;
         public static final int estimatedLbsTextView=0x7f08000e;
         public static final int estimatedWeightEditText=0x7f08000d;
         public static final int estimatedWeightTextView=0x7f08000c;
         public static final int foodEntryNoteEditText=0x7f080020;
         public static final int foodEntryNoteTextView=0x7f08001f;
         public static final int foodEntryTimePicker=0x7f08001e;
-        public static final int goalWeightEditText=0x7f080030;
-        public static final int goalWeightTextView=0x7f08002f;
-        public static final int heightTextView=0x7f08002a;
-        public static final int inFeetEditText=0x7f08002b;
-        public static final int inInchesEditText=0x7f08002c;
+        public static final int goalWeightEditText=0x7f080031;
+        public static final int goalWeightTextView=0x7f080030;
+        public static final int heightTextView=0x7f08002b;
+        public static final int inFeetEditText=0x7f08002c;
+        public static final int inInchesEditText=0x7f08002d;
         public static final int optFemale=0x7f080027;
         public static final int optMale=0x7f080026;
         public static final int profileEditorScrollView=0x7f08001a;
@@ -69,13 +70,13 @@ public final class R {
         public static final int saveButton=0x7f080023;
         public static final int sinceMealEditText=0x7f080010;
         public static final int sinceMealTextView=0x7f08000f;
-        public static final int startingWeightEditText=0x7f08002e;
-        public static final int startingWeightTextView=0x7f08002d;
+        public static final int startingWeightEditText=0x7f08002f;
+        public static final int startingWeightTextView=0x7f08002e;
         public static final int tableRow1=0x7f080021;
         public static final int targetWeightSpinner=0x7f080005;
-        public static final int text=0x7f080032;
+        public static final int text=0x7f080033;
         public static final int textView1=0x7f080024;
-        public static final int textView2=0x7f08001d;
+        public static final int textView2=0x7f080028;
         public static final int timelineImageView=0x7f080003;
         public static final int weighInButton=0x7f08000b;
     }
